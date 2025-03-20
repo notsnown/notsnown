@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, my name is Rodrigo! 👋
 <div>
   <a href="https://github.com/notsnown">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=notsnown&show_icons=true&theme=dracula&include_all_commits=true">
